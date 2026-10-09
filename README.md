@@ -128,4 +128,4 @@ Thứ tự khuyến nghị: `main.py` rồi `make_report.py`.
 
 ## Tác giả
 
-Làm cá nhân — [Điền tên / MSSV của bạn tại đây].
+B26CHKH019_TrinhThiHuyenDieu.
