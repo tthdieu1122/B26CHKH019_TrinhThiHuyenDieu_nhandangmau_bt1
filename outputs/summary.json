@@ -1,0 +1,10 @@
+{
+  "n_components_95": 8,
+  "best_model_no_pca": "Lasso",
+  "best_model_pca": "Lasso",
+  "final_model": "Lasso",
+  "use_pca_final": false,
+  "test_MAE": 42.805234446768836,
+  "test_RMSE": 53.70869844573793,
+  "test_R2": 0.45554139902790414
+}
